@@ -15,6 +15,7 @@ A collection of blog posts about CSS architectures:
 * [CSS on Noodles](http://codepen.io/lachlanjc/blog/noodles-css) by [@lachlanjc](https://github.com/lachlanjc)
 * [CSS at BuzzFeed](http://www.buzzfeed.com/erakor/i-am-all-about-that-sass) by [@erakor](https://github.com/erakor)
 * [CSS at Teamweek](http://blog.teamweek.com/2015/03/using-css-in-teamweek/) by [@herkyl](https://github.com/herkyl)
+* [CSS at Say Media](http://www.saydaily.com/2014/09/css-at-say-media) by [@smithschwartz](https://github.com/smithschwartz)
 
 ## Contributing
 
