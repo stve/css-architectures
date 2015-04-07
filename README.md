@@ -17,6 +17,7 @@ A collection of blog posts about CSS architectures:
 * [CSS at Teamweek](http://blog.teamweek.com/2015/03/using-css-in-teamweek/) by [@herkyl](https://github.com/herkyl)
 * [CSS at Say Media](http://www.saydaily.com/2014/09/css-at-say-media) by [@smithschwartz](https://github.com/smithschwartz)
 * [How Evernote handles their Sass Architecture](http://blog.evernote.com/tech/2014/12/17/evernote-handles-sass-architecture/) by [@ryanburgess](https://github.com/ryanburgess)
+* [How we CSS at EventMobi](https://medium.com/@owdco/how-we-css-at-eventmobi-98a12961c264) by Oliver Williams
 
 ## Contributing
 
